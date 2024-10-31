@@ -1,4 +1,4 @@
-import { manl, manf, mane,  manj,mana, manb,  mand, mang, manh, mani, mank , womana, womand, womanf, womang, womanc, womane, Kida, Kidb, Kidc, Kidd, Kide, Kidf, womanb} from "..";
+import { manl, manf, mane,  manj,mana, manb,  mand, mang, manh, mani, mank , womana, womand, womanf, womang, womanc, womane, Kida, Kidb, Kidc, Kidd, Kide, Kidf} from "..";
 
 
 
@@ -23,7 +23,7 @@ export const sellers = [
     },
     {
         imgSrc:womand,
-        title:"WOMEN SOLID SLIM FITS ",
+        title:"WOMEN SOLID SLIM FIT ",
         price:"$420",
         discount:""
     },
@@ -335,16 +335,16 @@ export const products = [
         description: "A stylish blue jacket for kids, adds a cool touch to any outfit.",
         specifications: "Material: Polyester, Closure: Zip-up, Color: Blue"
     },
-    //{
-      //  id: 21,
-      //  imgSrc: Kide,
-       // title: "Water Repellent Jacket",
-      //  price: "$75",
-       // discount: "-30%",
-       // category: "kids",
-      //  description: "Lightweight water-repellent jacket for active kids. Ideal for rainy days.",
-      //  specifications: "Material: Water-resistant polyester, Features: Hooded, zip-up, Color: Red"
-  //  },
+    {
+        id: 21,
+        imgSrc: Kide,
+        title: "Water Repellent Jacket",
+        price: "$75",
+        discount: "-30%",
+        category: "kids",
+        description: "Lightweight water-repellent jacket for active kids. Ideal for rainy days.",
+        specifications: "Material: Water-resistant polyester, Features: Hooded, zip-up, Color: Red"
+    },
     {
         id: 21,
         imgSrc: Kidf,

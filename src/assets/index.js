@@ -3,9 +3,9 @@ import Hero from './images/hero.png';
 import Kida from './images/kida.jpg';
 import Kidb from './images/kidb.jpg';
 import Kidc from './images/kidc.jpg';
-import Kidd from './images/kidd.jpg';
-//import Kide from './images/Kide.jpg';
-import Kidf from './images/Kidf.jpg';
+import kidd from './images/kidd.jpg';
+import Kide from './images/kide.jpg';
+import Kidf from './images/kidf.jpg';
 import mana from './images/mana.jpg';
 import manb from './images/manb.jpg';
 import manc from './images/manc.jpg';
@@ -32,8 +32,8 @@ export {
   Kida,
   Kidb,
   Kidc,
-  Kidd,
-  //Kide,
+  kidd,
+  Kide,
   Kidf,
   mana,
   manb,
