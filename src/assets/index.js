@@ -4,7 +4,7 @@ import Kida from './images/kida.jpg';
 import Kidb from './images/kidb.jpg';
 import Kidc from './images/kidc.jpg';
 import Kidd from './images/kidd.jpg';
-import Kide from './images/Kide.jpg';
+//import Kide from './images/Kide.jpg';
 import Kidf from './images/Kidf.jpg';
 import mana from './images/mana.jpg';
 import manb from './images/manb.jpg';
@@ -33,7 +33,7 @@ export {
   Kidb,
   Kidc,
   Kidd,
-  Kide,
+  //Kide,
   Kidf,
   mana,
   manb,
