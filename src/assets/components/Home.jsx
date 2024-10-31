@@ -3,7 +3,7 @@ import Hero from "./Hero"
 import Logos from "./Logos"
 import BestSellers from "./BestSellers"
 import BackgroundVideo from "./BackgroundVideo"
-import Featured from "./featured"
+import Drake from "./Drake"
 import Category from "./Category"
 import Slider from "./Slider"
 import Banner from "./Banner"
@@ -20,7 +20,7 @@ const Home = () => {
       <Logos/>
       <BestSellers/>
       <BackgroundVideo/>
-      <Featured/>
+      <Drake/>
       <Category/>
       <Slider/>
       <Banner/>

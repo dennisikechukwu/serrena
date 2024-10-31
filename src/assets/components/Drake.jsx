@@ -1,7 +1,7 @@
-import React from 'react'
+
 import { features } from '../constants/data'
 
-const Featured = () => {
+const Drake = () => {
   return (
     <div className='p-9 xl:mt-24 lg:mt-20 md:mt-16 sm:mt-14 max-sm:mt-11'>
         <h1 className='text-4xl font-bold font-serif'>
@@ -27,4 +27,4 @@ const Featured = () => {
   )
 }
 
-export default Featured
+export default Drake;
