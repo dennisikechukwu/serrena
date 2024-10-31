@@ -1,0 +1,9 @@
+.hero-section {
+  background-image: url('../src/assets/images/hero.png');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  display: flex;
+  position: relative;
+  padding: 20px;
+}
