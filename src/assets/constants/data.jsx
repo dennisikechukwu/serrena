@@ -1,4 +1,5 @@
-import { manl, manf, mane,  manj,mana, manb,  mand, mang, manh, mani, mank , womana, womand, womanf, womang, womanc, womane, Kida, Kidb, Kidc, Kidd, Kide, Kidf} from "..";
+import { manl, manf, mane, manj ,mana, manb, mand, mang, manh, mani, mank , womana, womand, womanf, womang, womanc, womane, Kida, Kidb, Kidc, Kide, Kidf } from "..";
+
 
 
 
@@ -107,12 +108,7 @@ export const practices = [
         discount: "-30%",
     },
 
-    {
-        imgSrc:Kidd,
-        title: "BLUE JACKET",
-        price: "$75",
-        discount: "",
-    },
+    
 
     {
         imgSrc:mank,
@@ -325,16 +321,7 @@ export const products = [
         description: "Classic black jeans with a straight fit, made to withstand daily play.",
         specifications: "Material: 100% denim, Fit: Straight fit, Color: Black"
     },
-    {
-        id: 20,
-        imgSrc: Kidd,
-        title: "Blue Jacket",
-        price: "$75",
-        discount: "",
-        category: "kids",
-        description: "A stylish blue jacket for kids, adds a cool touch to any outfit.",
-        specifications: "Material: Polyester, Closure: Zip-up, Color: Blue"
-    },
+    
     {
         id: 21,
         imgSrc: Kide,

@@ -3,7 +3,7 @@ import Hero from './images/hero.png';
 import Kida from './images/kida.jpg';
 import Kidb from './images/kidb.jpg';
 import Kidc from './images/kidc.jpg';
-import kidd from './images/kidd.jpg';
+import kidd from "./images/kidd.jpg";
 import Kide from './images/kide.jpg';
 import Kidf from './images/kidf.jpg';
 import mana from './images/mana.jpg';
@@ -53,5 +53,5 @@ export {
   womand,
   womane,
   womanf,
-  womang,
+  womang
 };
